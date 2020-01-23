@@ -180,9 +180,6 @@ acts as an escrow partner for funds offered by the BitShares community.
 
 Workers listed on this site will be owned by the BitShares Blockchain
 Foundation, who will also act as the freelancer's partner and point of
-contact for the worker proposal and supervise the entire progress.
-Payouts are facilitated in Smartcoins through the escrow setup with the
-independent BitShares Foundation.
-
-[Blockchain Projects BV](http://blockchainprojectsbv.com) is contracted to
-handle the technical details and support quality assurance procedures.
+contact for the worker proposal, supervise the entire progress,
+handle technical details and support quality assurance procedures. Any of those 
+tasks may be outsourced to trusted contractors.
