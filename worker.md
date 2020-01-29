@@ -112,6 +112,12 @@ fee is applied to all payment workers operated by the BitShares Blockchain Found
 (starting 1. March 2019). This fee is applicable for each outgoing
 payment and will be accounted for publicly for each worker.
 
+*Remark 3*
+If not otherwise mentioned in the specific worker proposal, invoices must be posted to the 
+BBF (either via email to invoice@bitshares.foundation or uploaded to the accounting website)
+within two months of the handover of the delivery (e.g. when a sprint or milestone has been completed).
+After this timeframe has passed, the delivery will be considered a volunteer contribution. 
+
 ### Escrow Worker Model
 
 The purpose of escrow workers is to ensure proper payment for the work
@@ -180,3 +186,6 @@ Foundation, who will also act as the freelancer's partner and point of
 contact for the worker proposal, supervise the entire progress,
 handle technical details and support quality assurance procedures. Any of those 
 tasks may be outsourced to trusted contractors.
+
+___
+_Page updated on 29.01.2019. Applicable to all subsequently posted workers (on-chain creation date). See the GitHub history of this site for versions applicable to older worker proposal._
