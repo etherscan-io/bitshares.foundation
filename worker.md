@@ -164,13 +164,10 @@ Invoices need to be sent that are published in this site.
 
 Invoices are to be adressed to
 
-    Stichting The BitShares Blockchain Foundation
-    Seminariehof 11
-    3768 EE Soest
-    The Netherlands
-    KVK-nummer 75854686
+    The BitShares Blockchain Foundation
 
-It is the desire of the Foundation to fullfill the terms set forth in
+Indication of the name is sufficient on the invoice. It is the desire of the Foundation to 
+fullfill the terms set forth in
 the worker proposal. However, the BitShares Blockchain Foundation
 expects freelancers to understand that no legal agreements is being
 formed between the Foundation and the freelancer. The Foundation merely
