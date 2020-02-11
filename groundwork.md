@@ -20,7 +20,7 @@ years.
 ## Reports
 
 For further information about BTS and the actions undertaken so far by
-the BitShares Blockchain Foundation on regulatory issues we refer to the
+The BitShares Blockchain Foundation on regulatory issues we refer to the
 following reports:
 
 * [Report 1](https://steemit.com/bitshares/@bitshares.fdn/report-spokesperson-bitshares-blockchain-foundation-on-bittrex-inc-and-other-regulatory-issues)

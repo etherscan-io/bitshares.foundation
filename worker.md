@@ -63,7 +63,7 @@ meant as an exclusive escrow):
    and feel for the need of the BitShares community to produce proposals with increased chances of approval. At the end
    proposals with clear tasks and value propositions are published.
 
-Certainly using the BitShares Blockchain Foundation as an escrow introduces additional
+Certainly using The BitShares Blockchain Foundation as an escrow introduces additional
 overhead and requires both trust from the BTS token holders and the freelancer.
 
 ## The procedure
@@ -108,7 +108,7 @@ budget.
 
 *Remark 2*
 If not otherwise mentioned in the specific worker proposal, a 5% escrow
-fee is applied to all payment workers operated by the BitShares Blockchain Foundation
+fee is applied to all payment workers operated by The BitShares Blockchain Foundation
 (starting 1. March 2019). This fee is applicable for each outgoing
 payment and will be accounted for publicly for each worker.
 
@@ -127,11 +127,11 @@ while the BitShares DAC does not overpay for the provided work,
 especially for long-term agreements.
 
 Given that a worker on the blockchain may be voted in for quite some
-time, the BitShares Blockchain Foundation would like to exercise the new
+time, The BitShares Blockchain Foundation would like to exercise the new
 model of running an escrow worker to reduce risks and costs for the BTS
 token holders:
 
-* BitShares Blockchain Foundation has an account (`workers.bitshares.foundation`) that is co-owned by `committee-account` and escrow partners.
+* The BitShares Blockchain Foundation has an account (`workers.bitshares.foundation`) that is co-owned by `committee-account` and escrow partners.
 * The worker will redeem it's funds on a regular basis and buy up smartcoins from the market (with reasonable premiums).
 * For this reason and due to volatility of BTS, the actual pay of the worker is higher than the USD value.
 * The worker will only pay the agreed amount of money and pay only in smartcoins to the `bitshares.foundation` account.
@@ -144,7 +144,7 @@ Budget workers serve as workers that provide capital for specific
 purposes where escrow workers do not fit, such as translation work,
 bug fixing or bounties. The rules are as follows:
 
-* BitShares Blockchain Foundation has an account (`workers.bitshares.foundation`) that is co-owned by `committee-account` and escrow partners.
+* The BitShares Blockchain Foundation has an account (`workers.bitshares.foundation`) that is co-owned by `committee-account` and escrow partners.
 * The BBF will redeem these funds on a regular basis and buy up smartcoins from the market (with reasonable premiums).
 * For this reason and due to volatility of BTS, the available budget in USD terms might vary over time.
 * The budget is controlled by `bitshares.foundation` who serves as an independent entity to supervise payouts.
@@ -163,7 +163,7 @@ a BSIP worker.
 # Beneficiaries and Invoices
 
 Beneficiaries of either of these models need to authenticate themselves
-against the BitShares Blockchain Foundation with their real-world identity.
+against The BitShares Blockchain Foundation with their real-world identity.
 Invoices need to be sent that are published in this site.
 
 **Payments will be made only after receiving and approving individual invoices!**

@@ -3,7 +3,7 @@ layout: default
 permalink: /imprint
 ---
 
-The BitShares Blockchain Foundation is registered in
+The BitShares Blockchain Foundation (the BBF) is registered in
 
     Stichting The BitShares Blockchain Foundation
     Seminariehof 11
@@ -16,14 +16,6 @@ appointment.
 
 If you would like to reach out to us digitally, you can write us via
 [mail](mailto:info@bitshares.foundation).
-
-# Spokesperson
-
-Since October 18th, the *BitShares Blockchain Foundation* has been elected as
-official **spokesperson** and **public face** of BitShares. You can reach out
-to the spokesperson any time per
-[mail](mailto:spokesperson@bitshares.foundation) or [read more about
-it](/spokesperson).
 
 # Donations
 
