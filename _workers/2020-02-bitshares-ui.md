@@ -131,11 +131,13 @@ All developers will coordinate efforts to follow prioritization of issues attach
 
 ### **Budget**
 
+TODO
+
 Budget includes development costs for the team.
 
 The daily payout is set to 62 110 BTS, which contains a devaluation multiplier of 1.25. In theory, if the price remains the same and the worker is voted active, it will take 8 months to collect the budget for the whole year.
 
-### **Table 1 – Team Fixed Expenses**
+#### **Table 1 – Team Fixed Expenses**
 
 <table>
   <tr>
@@ -180,6 +182,16 @@ Role
    </td>
   </tr>
   <tr>
+   <td>Core Communications
+   </td>
+   <td>$50/hour
+   </td>
+   <td>Milos
+   </td>
+   <td>2 hour weekly
+   </td>
+  </tr>
+  <tr>
    <td>Total
    </td>
    <td>
@@ -191,7 +203,7 @@ Role
   </tr>
 </table>
 
-### **Table 2 – Development Expenses**
+#### **Table 2 – Development Expenses**
 
 <table>
   <tr>
@@ -220,7 +232,7 @@ Role
 _Rates for developers may differ depending on experience, and is based on PM discretion. Expected costs will be at full rate._
 
 
-###  **Table 3 – Summary**
+####  **Table 3 – Summary**
 
 <table>
   <tr>
