@@ -20,9 +20,9 @@ discussions:
    url: https://whaleshares.io/@startail/bitshares-ui-first-6-months-of-worker-results
 payments:
 price: up to XXX
-duration: XX weeks
-start: 2020/02/01
-end: 2020/01/01
+duration: 49 weeks
+start: 2020/02/24
+end: 2021/01/31
 ---
 
 # BitShares UI Reference Wallet
@@ -125,19 +125,25 @@ Duties will be to review submitted PRs together with developers and coordinate n
 
 Duties are to review and approve submitted timesheets, as verified by closed issues or merged PRs (referred by the invoices). Invoices that can be approved are sent to, and approved on, BitShares Blockchain Foundation for release of funds from escrow to contributor’s account.
 
+### **Core Coordination Manager - Milos (Digital Lucifer)**
+
+*   Main Duties: Ensure that efforts of UI and core team are in sync and breaking changes are communicated and accounted for
+
+Duties are to sync and review progress and discuss priorities for inter-team efforts.
+
+
 ### **Developers (Misc)**
 
 All developers will coordinate efforts to follow prioritization of issues attached by Project Manager or Release Manager based on requirements needed for following the Release Schedule set. At the start and end of all milestones the developers should make sure they follow the plan set out for them.
+Bounties are not free for all, and only hand-picked motivated developers that finish the task will be selected. Failure to finish within the agreed timeline may result in loss of compensation.
 
 ### **Budget**
 
 TODO
 
-Budget includes development costs for the team.
+Budget includes fixed positions and development costs for the team.
 
-The daily payout is set to 62 110 BTS, which contains a devaluation multiplier of 1.25. In theory, if the price remains the same and the worker is voted active, it will take 8 months to collect the budget for the whole year.
-
-#### **Table 1 – Team Fixed Expenses**
+#### **Table 1 – Fixed Team Expenses**
 
 <table>
   <tr>
@@ -154,21 +160,21 @@ Role
   <tr>
    <td>Project Manager
    </td>
-   <td>$75/hour
+   <td>$80/hour
    </td>
    <td>Magnus Anderson
    </td>
-   <td>10 hours weekly
+   <td>up to 6 hours weekly
    </td>
   </tr>
   <tr>
    <td>Code Review and Release Manager
    </td>
-   <td>$75/hour
+   <td>$80/hour
    </td>
-   <td>Stefan Schlissel
+   <td>Stefan Schiessl
    </td>
-   <td>10 hours weekly
+   <td>up to 8 hours weekly
    </td>
   </tr>
   <tr>
@@ -178,7 +184,7 @@ Role
    </td>
    <td>Alex M
    </td>
-   <td>1 hour weekly
+   <td>up to 1 hour weekly
    </td>
   </tr>
   <tr>
@@ -188,7 +194,7 @@ Role
    </td>
    <td>Milos
    </td>
-   <td>2 hour weekly
+   <td>up to 2 hour weekly
    </td>
   </tr>
   <tr>
@@ -198,7 +204,7 @@ Role
    </td>
    <td>
    </td>
-   <td><strong>11 hours weekly</strong>
+   <td><strong>up to 17 hours weekly</strong>
    </td>
   </tr>
 </table>
@@ -218,44 +224,40 @@ Role
    </td>
   </tr>
   <tr>
-   <td>Code and UI
+   <td>Development
    </td>
    <td>up to $75/hour
    </td>
    <td>- all developers -
    </td>
-   <td>~50 hours weekly
+   <td>up to 40 hours weekly
    </td>
   </tr>
 </table>
 
-_Rates for developers may differ depending on experience, and is based on PM discretion. Expected costs will be at full rate._
-
+_Rates for developers may differ depending on experience. Maximum costs are at full rate_
 
 ####  **Table 3 – Summary**
 
 <table>
   <tr>
-   <td>
-Role
-   </td>
-   <td>Amount
-   </td>
-   <td>Period
-   </td>
+   <td>Role</td>
+   <td>Up to hours</td>
+   <td>Up to amount</td>
+   <td>Period</td>
   </tr>
   <tr>
-   <td>Team Fixed Expenses
-   </td>
-   <td>USD 1,550
-   </td>
+   <td>Fixed Team Expenses</td>
+   <td>17 hours</td>
+   <td>$ 1,270</td>
    <td>Weekly
    </td>
   </tr>
   <tr>
-   <td>Code and UI
+   <td>Development
    </td>
-   <td>USD 3,750
+   <td>40 hours</td>
+   <td>$ 3,000
    </td>
    <td>Weekly
    </td>
@@ -271,17 +273,19 @@ Role
   <tr>
    <td>Total Budget
    </td>
-   <td>USD 243,800
+   <td></td>
+   <td>$ 148,270
    </td>
-   <td>46 weeks
+   <td>49 weeks
    </td>
   </tr>
   <tr>
-   <td>Escrow Fee (5%)
+   <td>Escrow Fee (3%)
    </td>
-   <td>up to USD 12,190
+   <td></td>
+   <td>$ 4,448
    </td>
-   <td>46 weeks
+   <td>49 weeks
    </td>
   </tr>
   <tr>
@@ -295,7 +299,8 @@ Role
   <tr>
    <td>Total asking 2020
    </td>
-   <td><strong>USD 255,990</strong>
+   <td></td>
+   <td><strong>$ 152,718</strong>
    </td>
    <td>
    </td>
@@ -311,7 +316,7 @@ Role
   <tr>
    <td>BTS per day
    </td>
-   <td><strong>62 110 BTS</strong>
+   <td><strong>22,555 BTS</strong>
    </td>
    <td>Daily worker pay
    </td>
@@ -321,10 +326,10 @@ Role
 **Remarks**
 
 *   This worker funds are **not to exceed** budget for development according to _Table 3_.
-*   The BitShares Blockchain Foundation seeks a management fee of 5% of paid invoices for dealing with the on-chain worker proposal, providing a legal framework, perform review of deliveries and invoices, and offer transparent accounting.
+*   The BitShares Blockchain Foundation seeks a management fee of 3% of paid invoices for dealing with the on-chain worker proposal, providing a legal framework, perform review of deliveries and invoices, and offer transparent accounting.
 *   All accumulated and unallocated BTS returned to the Reserve Pool at the conclusion of the Worker
 
-As the team size scales or BTS token valuations fluctuate, subsequent Worker(s) will be offered to fully fund the Intent.
+The daily payout is set to 22,555 BTS, which contains a devaluation multiplier of 2. In theory, if the price remains the same and the worker is voted active, it will take only half the time to collect the budget for the whole period.
 
 ### **Payments**
 
