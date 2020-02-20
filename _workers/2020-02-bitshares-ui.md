@@ -10,7 +10,7 @@ name: Magnus Anderson
 company:
   name:
   url:
-status: finished
+status: draft
 discussions:
  - name: Bitshares Talk
    url: https://bitsharestalk.org/index.php?topic=28705.0
@@ -19,7 +19,7 @@ discussions:
  - name: whaleshares/@startail
    url: https://whaleshares.io/@startail/bitshares-ui-first-6-months-of-worker-results
 payments:
-price: up to XXX
+price: up to $ 215,506
 duration: 49 weeks
 start: 2020/02/24
 end: 2021/01/31
