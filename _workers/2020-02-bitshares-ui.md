@@ -131,15 +131,20 @@ Duties are to review and approve submitted timesheets, as verified by closed iss
 
 Duties are to sync and review progress and discuss priorities for inter-team efforts.
 
+### **Developers**
 
-### **Developers (Misc)**
+All developers will coordinate efforts to follow prioritization of issues attached by Project Manager or Release Manager based 
+on requirements needed for following the Release Schedule. 
+At the start and end of all milestones the developers should make sure they follow the plan set out for them.
+Bounties are not free for all, and only hand-picked motivated developers that finish the task will be selected. 
+Failure to finish within the agreed timeline may result in loss of compensation. 
 
-All developers will coordinate efforts to follow prioritization of issues attached by Project Manager or Release Manager based on requirements needed for following the Release Schedule set. At the start and end of all milestones the developers should make sure they follow the plan set out for them.
-Bounties are not free for all, and only hand-picked motivated developers that finish the task will be selected. Failure to finish within the agreed timeline may result in loss of compensation.
+In addition to all personal engaged in the fixed team, following individuals are seeking to continue the development:
+
+ - Ihor Brazhnichenko, @gibbsfromncis. Former UX coordinator returns as dev only. Development experience: 8 years of professional front-end development, 5 years of team management, strong UI/UX eye. Different kinds of projects: IoT Platform for managing 100,000 online devices across the world, real-time online games, a portal for infrastructure management for communications network company that transmits radio and TV programmes, popular food delivery service.
+ - @ety001, developer from the chinese community. Will also help to faciliate communications
 
 ### **Budget**
-
-TODO
 
 Budget includes fixed positions and development costs for the team.
 
@@ -274,7 +279,7 @@ _Rates for developers may differ depending on experience. Maximum costs are at f
    <td>Total Budget
    </td>
    <td></td>
-   <td>$ 148,270
+   <td>$ 209,230
    </td>
    <td>49 weeks
    </td>
@@ -283,7 +288,7 @@ _Rates for developers may differ depending on experience. Maximum costs are at f
    <td>Escrow Fee (3%)
    </td>
    <td></td>
-   <td>$ 4,448
+   <td>$ 6,276
    </td>
    <td>49 weeks
    </td>
@@ -300,7 +305,7 @@ _Rates for developers may differ depending on experience. Maximum costs are at f
    <td>Total asking 2020
    </td>
    <td></td>
-   <td><strong>$ 152,718</strong>
+   <td><strong>$ 215,506</strong>
    </td>
    <td>
    </td>
@@ -329,7 +334,7 @@ _Rates for developers may differ depending on experience. Maximum costs are at f
 *   The BitShares Blockchain Foundation seeks a management fee of 3% of paid invoices for dealing with the on-chain worker proposal, providing a legal framework, perform review of deliveries and invoices, and offer transparent accounting.
 *   All accumulated and unallocated BTS returned to the Reserve Pool at the conclusion of the Worker
 
-The daily payout is set to 22,555 BTS, which contains a devaluation multiplier of 2. In theory, if the price remains the same and the worker is voted active, it will take only half the time to collect the budget for the whole period.
+The daily payout is set to 30,798 BTS, which assumes 3.06 dollar cents per BTS and contains a devaluation multiplier of 1.5. In theory, if the price remains the same and the worker is voted active, it will take only two thirds of the time to collect the budget for the whole period.
 
 ### **Payments**
 
