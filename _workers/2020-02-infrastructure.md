@@ -76,20 +76,13 @@ The **automated builds** using docker containers will continue to be available a
 
 Advanced features of the reference wallet require full history and advanced searching capabilities to function smoothly, which requires publicly available nodes with Elasticsearch support. This worker continues to provide a ES entry points for three major geographical regions:
 
-1. Direct and read-only ES access (http authentification BitShares:Infrastructure)
+**Direct and read-only ES access** (http authentification BitShares:Infrastructure)
 
      https://eu.elasticsearch.bitshares.ws
      https://us.elasticsearch.bitshares.ws
      https://hk.elasticsearch.bitshares.ws
 
-2. ES wrapper (https://github.com/oxarbitrage/bitshares-es-wrapper)
-
-    https://eu.wrapper.elasticsearch.bitshares.ws (API)
-    https://eu.wrapper.elasticsearch.bitshares.ws/apidocs/ (docs)
-    https://us.wrapper.elasticsearch.bitshares.ws (API)
-    https://us.wrapper.elasticsearch.bitshares.ws/apidocs/ (docs)
-    https://hk.wrapper.elasticsearch.bitshares.ws (API)
-    https://hk.wrapper.elasticsearch.bitshares.ws/apidocs/ (docs)
+**ES wrapper** (https://github.com/oxarbitrage/bitshares-es-wrapper)
 
 This will greatly simplify the workflow of developers and business administration for BitShares and enable easy access to statistical data processing and charting.
 Since the Elastic Search plugin from the bitshares-core is now stable, this will be used more extensively in the future. Furthermore, the same structure will be available for the testnet
