@@ -14,10 +14,10 @@ status: draft
 discussions:
  - name: bitsharestalk
    url: ""
-price: 209,496 CNY (30,000 USD)
+price: 30,600 USD (215,179 CNY)
 price_division:
-    fixed: 83,796 CNY
-    variable: 125,700 CNY
+    fixed: 12,600 USD (88,603 CNY)
+    variable: 18,000 USD (126,575 CNY)
 duration: 12 months
 start: 2020/03/01
 end: 2021/02/28
