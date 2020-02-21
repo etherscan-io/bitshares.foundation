@@ -46,7 +46,7 @@ this worker proposal will in addition offer
 The core component of this proposal is the distribution of the BitShares network by means of deploying multiple nodes and offer public API endpoints to improve latency,
 robustness and availability for the BitShares ecosystem. Since this proposal is funded by the BitShares ecosystem, we limit the use of the APIs to non-commercial activity.
 
-### **Distributed Network for Mainnet Nodes**
+### **Distributed Network for BitShares Nodes**
 
 The three deployed BitShares nodes
 
@@ -54,11 +54,7 @@ The three deployed BitShares nodes
 	us.nodes.bitshares.ws
 	hk.nodes.bitshares.ws
 
-will be continuously operated within the description of the last worker.
-
-### **Distributed Network for Testnet Nodes**
-
-The deployed BitShares testnet node
+will be continuously operated within the description of the last worker. Furthermore, the deployed BitShares testnet node
 
 	testnet.nodes.bitshares.ws
 
@@ -95,7 +91,12 @@ Advanced features of the reference wallet require full history and advanced sear
     https://hk.wrapper.elasticsearch.bitshares.ws (API)
     https://hk.wrapper.elasticsearch.bitshares.ws/apidocs/ (docs)
 
-This will greatly simplify the workflow of developers and business administration for BitShares and enable easy access to statistical data processing and charting. Since the Elastic Search plugin from the bitshares-core is now stable, this will be used more extensively in the future.
+This will greatly simplify the workflow of developers and business administration for BitShares and enable easy access to statistical data processing and charting.
+Since the Elastic Search plugin from the bitshares-core is now stable, this will be used more extensively in the future. Furthermore, the same structure will be available for the testnet
+
+    https://testnet.elasticsearch.bitshares.ws
+    https://testnet.wrapper.elasticsearch.bitshares.ws (API)
+    https://testnet.wrapper.elasticsearch.bitshares.ws/apidocs/ (docs)
 
 ## **Geolocation-based DNS loadbalancing**
 
