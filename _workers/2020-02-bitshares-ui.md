@@ -54,7 +54,7 @@ As previous, the worker will be used to support development on a number of BitSh
 *   [https://github.com/bitshares/beet](https://github.com/bitshares/beet)
 *   [https://github.com/bitshares/beet-js](https://github.com/bitshares/beet-js)
 
-## **Estimated Schedule 2020**
+## **Estimated Schedule**
 
 To decrease costs for the worker we will no longer include any community bounty payments, nor any travel funds to conferences. The cost will be focused on experienced developers that
 know the code well enough to make good commits to the code base.
