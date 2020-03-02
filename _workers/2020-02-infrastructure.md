@@ -4,16 +4,16 @@ layout: worker
 type: budget
 category: Network
 bfid: 202002-infrastructure
-workerid:
+workerid: 1.14.253
 title: "Renewal 3: Deploy and maintain independent BitShares infrastructure"
 name: Milos Preocanin
 company:
  name: AP Asia Tech Co., LTD.
  url: http://apasia.tech
-status: draft
+status: voting
 discussions:
  - name: bitsharestalk
-   url: ""
+   url: "https://bitsharestalk.org/index.php?topic=32149.0"
 price: 30,600 USD (215,179 CNY)
 price_division:
     fixed: 12,600 USD (88,603 CNY)
