@@ -113,10 +113,10 @@ and will be deployed at `api.bitshares.ws`. As of right now, most of these websi
 
 # **Commercial use**
 
-In the past there have been several instances of for-profit use of the services provided in this proposal.
+In the past there have been several instances of extensive for-profit use of the services provided in this proposal that degraded availability for the broader BitShares community.
 Any commercial usage of the nodes and elastic search endpoints included in this proposal will be recognized, and we
 will contact the offending party to either cease the usage or seek an agreement. The agreement can be simply a fee
-for the increased costs (which will directly flow into the budget of this worker) or provision of additional nodes through the offending party (decided case by case). This is nothing new, but will now be enforced more pro-actively.
+for the increased costs (which will directly flow into the budget of this worker) or provision of additional nodes through the offending party (decided case by case)..
 
 # **Milestones**
 
@@ -156,7 +156,7 @@ The payments will happen preferably in bitEUR, but may also happen in any altern
 
      Daily worker payout rate 5275 BTS
 
-The daily BTS payout is set to 5275 BTS, which contains a devaluation multiplier of 2. In theory, if the price remains the same and the worker is voted active, it will take half the time to collect the budget for the whole year.
+The daily BTS payout is set to 5275 BTS, which contains a devaluation multiplier of 1.5. In theory, if the price remains the same and the worker is voted active, it will take two thirds of the time to collect the budget for the whole year.
 All unused BTS are returned at the end of the worker.
 
 # **Key Performance Indicator (KPI)**
