@@ -173,7 +173,16 @@ If after 12 months, the BTS holders consider this worker a success, we intend to
 
 # **Summary to the BTS holder**
 
-This proposal maintains the reliable infrastructure that was built with the  have built with previous [infrastructure worker](https://www.bitshares.foundation/workers/2019-02-infrastructure), builds on top an easy global point of entry (although more centralized) and includes an API for statistics and crypto-ranking websites like CoinMarketCap, CoinGecko, Nomics & Feixiaohao.
+This proposal maintains the reliable infrastructure that was built with the  have built with previous [infrastructure worker](https://www.bitshares.foundation/workers/2019-02-infrastructure)
+
+* Public API nodes in Northern America, Europe and South China
+* Public ElasticSearch nodes and wrappers in Northern America, Europe and South China
+* Statistic, Usage and Availability data
+
+Furthermore it builds on top
+
+ * Easy global point of entry through gelocation based routing on DNS level
+ * BitShares Insight API for statistics and crypto-ranking websites like CoinMarketCap, CoinGecko, Nomics & Feixiaohao available in Northern America, Europe and South China
 
 # **Remarks**
 * The infrastructure and servers are up and running and produce costs. In the case that this proposal is not approved until 15th March 2020, all services rendered will need to be stopped and servers shutdown. Re-enabling it will produce setup fees for maintainers and server providers
