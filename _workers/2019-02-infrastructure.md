@@ -10,7 +10,7 @@ name: Blockchain Projects BV
 company:
  name: Blockchain Projects BV
  url: http://blockchainprojectsbv.com
-status: paying
+status: finished
 discussions:
  - name: bitsharestalk
    url: ""

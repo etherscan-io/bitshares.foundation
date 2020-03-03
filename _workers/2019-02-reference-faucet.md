@@ -15,7 +15,7 @@ discussions:
    url: 
  - name: steemit
    url:
-status: paying
+status: finished
 price: 3360 bitEUR (280€/mth)
 duration: 12 months
 start: 2018/02/01
