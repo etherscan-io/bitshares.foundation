@@ -2,7 +2,7 @@
 layout: worker
 language: en
 category: UI Development
-bfid: 202002-bitshares-ui
+bfid: 202003-bitshares-ui
 type: budget
 workerid:
 title: BitShares UI Team
@@ -19,10 +19,10 @@ discussions:
  - name: whaleshares/@startail
    url: https://whaleshares.io/@startail/bitshares-ui-first-6-months-of-worker-results
 payments:
-price: up to XXX
-duration: 49 weeks
-start: 2020/02/24
-end: 2021/01/31
+price: up to $ 107,380
+duration: 26 weeks
+start: 2020/03/09
+end: 2021/09/13
 ---
 
 # The BitShares UI Worker Proposal
@@ -136,10 +136,22 @@ Duties are to review and approve submitted timesheets, as verified by closed iss
 
 Duties are to sync and review progress and discuss priorities for inter-team efforts. This is paid by the core worker, if voted in.
 
+### **bench (@froooze)**
+
+*   Main Duties: Unit and integration testing, Bug reports and development
+*   Development Experience: Webdesign since 2005, active BitShares community member since 2017 with engineer background in mechatronic systems
+*   Languages: HTML, CSS, PHP, Python, SQL and recently JS with React
+
+Duties include testing of release candidates and development builds, writing of bug reports as reported through GitHub issues and development.
+
+### **ety001**
+
+*   Main Duties: Development and facilitation of communication with chinese community
+*   Development Experience: Former software engineer at Institue of Computing Technology Chinese Academy of Sciences, now freelancer for web development and focusing on Graphene-based and related blockchains and tools.
 
 ### **Developers (Misc)**
 
-Both committed developers (Magnus and Stefan) will coordinate efforts to follow prioritization of issues for the current release based on requirements needed for following the schedule set.
+All committed developers will coordinate efforts to follow prioritization of issues for the current release based on requirements needed for following the schedule set.
 At the start and end of all milestones the developers should make sure they follow the plan set out for them.
 Bounties are not free for all, and in case there are applicants only hand-picked motivated developers that finish the tasks will be added.
 Failure to finish within the agreed timeline may result in loss of compensation.
@@ -211,13 +223,33 @@ Role
    </td>
   </tr>
   <tr>
+   <td>Commmitted Development
+   </td>
+   <td>$75/hour
+   </td>
+   <td>ety001
+   </td>
+   <td>16 hours weekly
+   </td>
+  </tr>
+  <tr>
+   <td>Commmitted Development
+   </td>
+   <td>$75/hour
+   </td>
+   <td>bench
+   </td>
+   <td>8 hours weekly
+   </td>
+  </tr>
+  <tr>
    <td>Development
    </td>
    <td>up to $75/hour
    </td>
-   <td>- Split between all developers -
+   <td>- Split between all developers as needed -
    </td>
-   <td>up to 24 hours weekly
+   <td>up to 8 hours weekly
    </td>
   </tr>
   <tr>
@@ -227,12 +259,12 @@ Role
    </td>
    <td>
    </td>
-   <td><strong>up to 48 hours weekly</strong>
+   <td><strong>up to 56 hours weekly</strong>
    </td>
   </tr>
 </table>
 
-In total for the 26 weeks this worker is seeking for **$ 91,780**.
+In total for the 26 weeks this worker is seeking for **$ 107,380**.
 
 **Remarks**
 
@@ -240,7 +272,7 @@ In total for the 26 weeks this worker is seeking for **$ 91,780**.
 *   The BitShares Blockchain Foundation seeks a management fee of 3% of paid invoices for dealing with the on-chain worker proposal, providing a legal framework, perform review of deliveries and invoices, and offer transparent accounting
 *   All accumulated and unallocated BTS returned to the Reserve Pool at the conclusion of the Worker
 
-The daily payout is set to **20,000 BTS**, which contains a devaluation multiplier of 2. In theory, if the price remains the same and the worker is voted active, it will take only half the time to collect the budget for the whole period.
+The daily payout is set to **25,000 BTS**, which contains a devaluation multiplier of 1.25. In theory, if the price remains the same and the worker is voted active, it will take 21 weeks to collect the budget for the whole period.
 
 ### **Payments**
 
