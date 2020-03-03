@@ -10,7 +10,7 @@ name: Magnus Anderson
 company:
   name:
   url:
-status: finished
+status: draft
 discussions:
  - name: Bitshares Talk
    url: https://bitsharestalk.org/index.php?topic=28705.0
@@ -99,8 +99,7 @@ the integration of Beet for 3 is a fixed goal to be achieved within this worker.
 
 There are many opinions across the BitShares community about what is most important.
 These opinions vary due to the broad range of individual capabilities. Some users want to see new features developed as soon as possible while others would like
-to see a refined user interface with reliable, less ambiguous controls and helpful documentation. The feedback from the community will be heard and if possible
-accounted for in the chronological order of the roadmap.
+to see a refined user interface with reliable, less ambiguous controls and helpful documentation. The feedback from the community and BTS holders will be heard and accounted for reasonably in the chronological order of the roadmap.
 
 ## **Team**
 
@@ -156,7 +155,7 @@ At the start and end of all milestones the developers should make sure they foll
 Bounties are not free for all, and in case there are applicants only hand-picked motivated developers that finish the tasks will be added.
 Failure to finish within the agreed timeline may result in loss of compensation.
 
-### **Budget & Roles**
+## **Budget & Roles**
 
 Budget includes fixed positions and development costs
 
@@ -274,7 +273,7 @@ In total for the 26 weeks this worker is seeking for **$ 107,380**.
 
 The daily payout is set to **25,000 BTS**, which contains a devaluation multiplier of 1.25. In theory, if the price remains the same and the worker is voted active, it will take 21 weeks to collect the budget for the whole period.
 
-### **Payments**
+## **Payments**
 
 Payment cycles will aligned with sprints. This way the BTS holders can have a tangible and visible overview of the spendings.
 
