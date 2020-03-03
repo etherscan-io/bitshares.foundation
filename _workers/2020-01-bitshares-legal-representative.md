@@ -10,7 +10,7 @@ name: The BitShares Blockchain Foundation
 company:
   name: The BitShares Blockchain Foundation
   url: http://bitshares.foundation
-status: voting
+status: expired
 hidden_in_table: true
 discussions:
  - name: bitsharestalk
