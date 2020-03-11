@@ -64,7 +64,7 @@ new features, enhancements and improvements that can be finalized within the rel
 All efforts for a release are organized and reflected in [GitHub as “Projects”](https://github.com/bitshares/bitshares-ui/projects). Each task will be reflected
 in [GitHub as an Issue](https://github.com/bitshares/bitshares-ui/issues).
 
-Bugs will always take priority, and critical releases may be released inbetween if required. In general, Releases may be delayed depending on test results to ensure only polished releases are published.
+Critical bugs will always take priority, and hotfix releases may be released inbetween if required. In general, releases may be delayed depending on test results to ensure only polished releases are published.
 
 ## **Estimated Roadmap**
 
@@ -98,11 +98,13 @@ fixed goal to be achieved within this worker.
 
 **Remark on Prioritization**
 
-There are many opinions across the BitShares community about what is most important.
+1. There are many opinions across the BitShares community about what is most important.
 These opinions vary due to the broad range of individual capabilities. Some users want to see new features developed as soon as possible while others would like
-to see a refined user interface with reliable, less ambiguous controls and helpful documentation. The feedback from the community and BTS holders will be heard and accounted for reasonably in the chronological order of the roadmap.
+to see a refined user interface with reliable, less ambiguous controls and helpful documentation. 
 
-In particular, engagement towards the chinese community will be strengthened and feedback collected.
+2. Engagement towards the chinese community will be strengthened and feedback collected.
+
+3. Release planning will happen before the development. The feedback from the community and BTS holders will be heard and accounted for reasonably in the chronological order of the roadmap and releases.
 
 ## **Team**
 
