@@ -41,7 +41,7 @@ The idea was not to provide a simple, slick, use-case targeted UI for depicted t
 Anyone should be able to get a grasp on the feature set while being able to quickly try things out.
 The user experience is of course always one key driver for development of the BitShares UI, but it will never be as simply or focused as a tailored UI with a specific use-case in mind.
 
-## **Scope**
+## **Worker Scope**
 
 This worker will last for half a year, starting from 9<sup>th</sup> of March 2020 (Calender Week 11) until 13<sup>th</sup> of September 2020 (Calender Week 37).
 
@@ -70,12 +70,19 @@ Bugs will always take priority, and critical releases may be released inbetween 
 
 The roadmap for this worker will contain three main parts:
 
-1.  Maintenance of the code base (security issues, bugfixes & small UX improvements)
+1.  Integration of Beet and seamless user experience
+
+    The biggest concern for users when interacting with a use interface is security of their own private keys. The BitShares UI offers cloud login (account and password) and a local wallet.
+    Very common in the crypto space is the use of external key managers and completely extract the issue of key security from the website / light wallet. For the BitShares UI that means
+    to enable a new way of logging in with Beet, a standalone key manager tailored for Graphene Blockchains, and possible other key managers like Scatter. That way the user only has to trust
+    his private keys to the key manager that can be installed locally, and the private key is never exposed to the website requesting the key.
+
+2.  Maintenance of the code base (security issues, bugfixes & small UX improvements)
 
     Keeping the UI usable and secure for the users is certainly a top priority. Especially in the crypto space, outdated software, libraries of bad (formerly best) practices can lead to severe consequences with loss of funds.
     NodeJS dependencies need to be maintained and bugs that surface fixed. On top of that, small tweaks on the right end can greatly facilitate the user experience.
 
-2.  Implementation of features/changes of upcoming BSIPs as they become available
+3.  Implementation of features/changes of upcoming BSIPs as they become available
 
     With feature and api releases of the BitShares Core adjustments and/or extension to the JS codebase is necessary to keep up with the development.
     This may range from performance improvements allowed by new core endpoints to new features enabled through BSIP development. In particular for now:
@@ -85,21 +92,17 @@ The roadmap for this worker will contain three main parts:
     * BSIP40: Implementation of an easy way to create named keys, e.g. a trading key
     * Custom operation plugin: Allow user configuration and other payload to be stored on chain together with your account. This will also be used by the mobile app by BTS++
 
-3.  Integration of Beet and seamless user experience
-
-    The biggest concern for users when interacting with a use interface is security of their own private keys. The BitShares UI offers cloud login (account and password) and a local wallet.
-    Very common in the crypto space is the use of external key managers and completely extract the issue of key security from the website / light wallet. For the BitShares UI that means
-    to enable a new way of logging in with Beet, a standalone key manager tailored for Graphene Blockchains, and possible other key managers like Scatter. That way the user only has to trust
-    his private keys to the key manager that can be installed locally, and the private key is never exposed to the website requesting the key.
-
-While the first two parts are an ongoing basis, the third one is a defined milestone. In particular, that means that the actual development for 1, 2 is dynamic and needs contant evaluation whereas
-the integration of Beet for 3 is a fixed goal to be achieved within this worker.
+While the last two parts are an ongoing basis, the third one is a defined milestone. In particular, that means that 
+the actual development for 2, 3 is dynamic and needs contant evaluation whereas the integration of Beet for 3 is a 
+fixed goal to be achieved within this worker.
 
 **Remark on Prioritization**
 
 There are many opinions across the BitShares community about what is most important.
 These opinions vary due to the broad range of individual capabilities. Some users want to see new features developed as soon as possible while others would like
 to see a refined user interface with reliable, less ambiguous controls and helpful documentation. The feedback from the community and BTS holders will be heard and accounted for reasonably in the chronological order of the roadmap.
+
+In particular, engagement towards the chinese community will be strengthened and feedback collected.
 
 ## **Team**
 
