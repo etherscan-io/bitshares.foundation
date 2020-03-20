@@ -14,7 +14,7 @@ status: draft
 discussions:
  - name: BitSharesTalk
    url: https://bitsharestalk.org/index.php?topic=32148.msg341578#msg341578
-max-budget: 5,263,369.50000 BTS
+price: up to 5,263,369.50000 BTS
 duration: 2 months (10 weeks)
 start: 2020/03/25
 end: 2020/06/02
