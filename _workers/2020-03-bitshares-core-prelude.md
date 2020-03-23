@@ -15,9 +15,9 @@ discussions:
  - name: BitSharesTalk
    url: https://bitsharestalk.org/index.php?topic=32148.msg341578#msg341578
 price: up to 5,263,369.50000 BTS
-duration: 2 months (10 weeks)
+duration: 2 months (9 weeks)
 start: 2020/03/25
-end: 2020/06/02
+end: 2020/05/26
 paymentaccount:
 ---
 
@@ -102,4 +102,4 @@ Terms of Worker/Agreement
 ## Important Notice to BTS Core Token Holders
 
 By approving this worker you're not implicitly approving the BSIPs that are listed in the roadmap of this worker.
-To avoid any delays with mainnet release upon delivery of this worker, please provide vote of support to the listed BSIP's within 4 weeks from the worker start. BSIPs that are not approved by BTS holders must be excluded otherwise (leading to a reduction of cost and features delivered with release 4.0).
+To avoid any delays with mainnet release upon delivery of this worker, please provide vote of support to the listed BSIP's within 30 days from the worker start. BSIPs that are not approved by BTS holders must be excluded otherwise (leading to a reduction of cost and features delivered with release 4.0).
