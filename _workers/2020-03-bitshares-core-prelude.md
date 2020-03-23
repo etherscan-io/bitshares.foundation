@@ -4,13 +4,13 @@ layout: worker
 type: budget
 category: Core Development
 bfid: 202003-bitshares-core-prelude
-workerid: draft
+workerid: 1.14.255
 title: BitShares Core Prelude (Release 4.0)
 name: Milos Preocanin
 company:
  name:
  url:
-status: draft
+status: voting
 discussions:
  - name: BitSharesTalk
    url: https://bitsharestalk.org/index.php?topic=32148.msg341578#msg341578
