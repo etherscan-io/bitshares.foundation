@@ -17,8 +17,8 @@ discussions:
 payments:
 price: up to $ 107,380
 duration: 26 weeks
-start: 2020/03/09
-end: 2020/09/13
+start: 2020/03/25
+end: 2020/09/29
 ---
 
 # The BitShares UI Worker Proposal
