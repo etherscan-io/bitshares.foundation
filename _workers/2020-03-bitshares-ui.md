@@ -4,13 +4,13 @@ language: en
 category: UI Development
 bfid: 202003-bitshares-ui
 type: budget
-workerid:
+workerid: 1.14.256
 title: BitShares UI Team
 name: Magnus Anderson
 company:
   name:
   url:
-status: draft
+status: voting
 discussions:
  - name: Bitshares Talk
    url: https://bitsharestalk.org/index.php?topic=32204.0
