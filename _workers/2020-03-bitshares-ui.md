@@ -272,7 +272,7 @@ In total for the 26 weeks this worker is seeking for **$ 107,380**.
 *   The BitShares Blockchain Foundation seeks a management fee of 3% of paid invoices for dealing with the on-chain worker proposal, providing a legal framework, perform review of deliveries and invoices, and offer transparent accounting
 *   All accumulated and unallocated BTS returned to the Reserve Pool at the conclusion of the Worker
 
-The daily payout is set to **25,000 BTS**, which contains a devaluation multiplier of 1.25. In theory, if the price remains the same and the worker is voted active, it will take 21 weeks to collect the budget for the whole period.
+The daily payout is set to **36,610 BTS**, which contains a devaluation multiplier of 1.1.
 
 ## **Payments**
 
