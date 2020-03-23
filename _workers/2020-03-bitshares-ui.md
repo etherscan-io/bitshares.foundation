@@ -13,11 +13,7 @@ company:
 status: draft
 discussions:
  - name: Bitshares Talk
-   url: https://bitsharestalk.org/index.php?topic=28705.0
- - name: steemit/@sc-steemit
-   url: https://steemit.com/bitshares/@sc-steemit/bitshares-ui-first-6-months-of-worker-results
- - name: whaleshares/@startail
-   url: https://whaleshares.io/@startail/bitshares-ui-first-6-months-of-worker-results
+   url: https://bitsharestalk.org/index.php?topic=32204.0
 payments:
 price: up to $ 107,380
 duration: 26 weeks
