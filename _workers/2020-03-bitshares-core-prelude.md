@@ -30,7 +30,7 @@ The intent of this worker is to provide funding and solution for development, te
 Detailed Roadmap and Estimates
 ==============================
 
-- [x] Fix `negative balances` (Reimbursement Abitmore)
+- [x] Fix [`negative balances`](https://github.com/bitshares/bitshares-core/issues/2103)
 - [ ] Development for [BSIP 64: Operational HTLC preimage length, HASH160 addition, and memo field](https://github.com/bitshares/bsips/blob/master/bsip-0064.md) (up to 12 hours)
 - [ ] Development for [BSIP 74: Margin Call Fee Ratio](https://github.com/bitshares/bsips/blob/master/bsip-0074.md) (up to 60 hours)
 - [ ] Development for [BSIP 81: Simple Maker-Taker Market Fees](https://github.com/bitshares/bsips/blob/master/bsip-0081.md) (up to 100 hours)
