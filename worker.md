@@ -120,7 +120,7 @@ the BTS token during that time. Both the freelancer and the BitShares DAC
 may experience a reduced risk during an escrowed worker proposal,
 especially in longer agreements.
 
-* An Escrow company will usually have an account on the BitShares Blockchain Foundation.
+* An Escrow company will usually have an account on the BitShares Blockchain.
 * The worker proposal will automatically redeem it’s funds on a regular basis and the escrow party will exchange these for smartcoins from the market (with reasonable premiums).
 * For this reason and due to volatility of BTS, the actual reward of the worker is higher than the USD value.
 * The worker proposal that is voted in, will only reward the agreed amount of rewards and will reward in one of the agreed upon assets to the escrow account.
@@ -134,7 +134,7 @@ specific purposes where escrow workers do not fit, such as
 translation work, bug fixing or bounties. The rules could be as
 follows:
 
-* An Escrow company will usually have an account on the BitShares Blockchain Foundation.
+* An Escrow company will usually have an account on the BitShares Blockchain.
 * The worker proposal will automatically obtain its funds from the BitShares DAC's Working Budget and the escrow party will exchange these for the agreed assets from the market (with reasonable premiums)
 * For this reason and due to volatility of BTS, the available budget might vary over time.
 * The amounts available for individual budgets should be obtained publicly.
