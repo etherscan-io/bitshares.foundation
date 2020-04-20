@@ -86,21 +86,11 @@ Setting up a worker proposal with an Escrow service normally sticks to the follo
 
 ## Reward worker proposals
 
-The BitShares Blockchain Foundation splits the reward workers into two sub-types,
-namely escrow and budget workers. For both workers the
+Rewards worker proposals may be divided into two sub-types, namely escrow and budget workers.
 
-* **escrow workers**: With this, we organize
-  freelancers around the world that want to work for the BitShares DAC
-  through our trusted escrow setup which carefully vets the individual
-  offers, sets them up on the blockchain and ensures the maximum of code
-  quality for the BTS token holders.
+* **escrow workers**: Freelancers around the world, who want to work for the BitShares DAC through an escrow setup which carefully vets the individual offers, are organized and set up on the blockchain and ensure the maximum of code quality for the BTS token holders.
 
-* **budget workers**: These workers serve as a budget
-  that can be tapped whenever it is needed for purposes defined in the
-  individual budget workers. This serves as working budget that is more
-  flexible then static escrow workers in the way that it allows to reward
-  many different people for their support out of a single purpose-specific
-  fund.
+* **budget workers**: These workers serve as a budget that can be tapped whenever it is needed for purposes defined in the individual budget workers. This serves as working budget that is more flexible then static escrow workers in the way that it allows to reward many different people for their support out of a single purpose-specific fund.
 
 *Remark 1*
 A reward on a worker can only send BTS that have been
@@ -119,9 +109,8 @@ An Escrow service is always separately agreed with
 either a legal entity or an individual that has been identified
 with their real-world identity. Usually there is a two months
 deadline after the handover of the delivery (e.g. when a sprint or
-milestone has been completed). After this timeframe has passed,
-deliveries will be considered most welcome volunteer contribution
-to the open source repository of the decentralized Bitshares Blockchain
+milestone has been completed). After this deadline has passed,
+deliveries will be considered most welcome volunteer contribution.
 
 ### Escrow Worker Model
 
