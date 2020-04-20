@@ -5,25 +5,19 @@ permlink: /permlink
 
 ## Groundwork
 
-Major groundwork needs to be performed for BitShares to succeed over
-current and future regulatory and technological challenges. The
-BitShares Blockchain Foundation seeks to take the lead on those.
+Major groundwork has been performed for the BitShares Blockchain
+and its core native token BTS to succeed over current and future
+regulatory and technological challenges by many sources over the
+last years. In a decentralized autonomous community, every person
+or company can initiate actions by his or her own accord to
+participate. By choice such an initiative can be put to vote on
+the blockchain. Votes and accounts are anonymous.
 
-Throughout the last couple months, we have been repeatedly approached
-about core aspects of BitShares and its governance token BTS that have
-been presented publicly in an inaccurate and unfavorable manner. This
-often resulted in ambiguity and uncertainty that has held back some
-businesses from working with or on the BitShares Blockchain and could
-well have been a reason for lack of ecosystem growth throughout the last
-years.
-
-## Reports
-
-For further information about BTS and the actions undertaken so far by
-The BitShares Blockchain Foundation on regulatory issues we refer to the
-following reports:
-
-* [Report 1](https://steemit.com/bitshares/@bitshares.fdn/report-spokesperson-bitshares-blockchain-foundation-on-bittrex-inc-and-other-regulatory-issues)
-* [Report 2](https://steemit.com/bitshares/@bitshares.fdn/second-report-spokesperson-bitshares-blockchain-foundation-on-bittrex-inc-and-other-regulatory-issues)
-* [Report 3](https://steemit.com/bitshares/@bitshares.fdn/report-3-spokesperson-on-lykke-listings-workers-and-ongoing-material)
-* [Report 4](https://steemit.com/spokesperson/@bitshares.fdn/spokesperson-report-2018-05-bitshares-blockchain-foundation-bbf)
+The very basic structure of the Bitshares Blockchain implicitly
+constitutes that individuals as well as companies are left to their own
+judgement regarding their public appearance and information provided.
+As a permissionless blockchain, there is no control mechanism on account
+and asset creation, projects or otherwise. The Bitshares Blockchain Foundation
+therefore clearly points out that it has no influence, control or benefit
+over any activity on the Bitshares Blockchain or its core native
+token BTS.
