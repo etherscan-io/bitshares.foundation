@@ -12,6 +12,9 @@ in a decentralized and trustless way on the blockchain.
 Once a worker proposal is approved by the BTS holders, funds are obtained
 in BTS through an algorithm from the working budget of the BitShares DAC.
 
+An overview of all current worker proposals on the BitShares Blockchain
+is available on [https://develop.bitshares.org/#/voting/workers](https://develop.bitshares.org/#/voting/workers).
+
 # Background
 
 The BitShares Blockchain in its technical implementation only
