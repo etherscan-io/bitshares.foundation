@@ -6,85 +6,84 @@ language: en
 
 # Overview
 
-The BitShares Blockchain Foundation takes a lead in managing so called
-*worker proposals* on the BitShares Blockchain. These proposals, once
-approved by BTS holders, obtain funding in BTS tokens from the working
-budget (a.k.a. reserves) of the BitShares DAC. These BTS tokens are then
-traded into a *price-stable* cryptocurrency, such as bitCNY, bitEUR,
-etc. \[[Read more](#worker-proposals-via-escrow)\]
-
-## Transparency
-
-We want to serve an open and trust-less ecosystem. As such, we provide
-full transparency to the BitShares community.
-For the sake of **transparency and accountability**, we have the
-accounting for the escrow workers under public domain. You can read more
-about this on our dedicated [Accountability Page](/accounting).
-
-## Worker Proposals
-
-The BitShares Blockchain Foundation currently maintains the following
-list of proposals through escrow:
-
-{% include workers.html %}
+A so called **worker proposal** on the BitShares Blockchain is a means
+to get rewarded for contributing to the BitShares ecosystem realized
+in a decentralized and trustless way on the blockchain.
+Once a worker proposal is approved by the BTS holders, funds are obtained
+in BTS through an algorithm from the working budget of the BitShares DAC.
 
 # Background
 
-The BitShares Blockchain in its technical implementation only knows
-one type of worker proposal. It contains a name, payment account,
-daily BTS payout rate and a link to provide insight into the purpose of
-the worker proposal. Anyone can create a worker proposal on-chain, and
-afterwards all BTS token holders can vote on it. If it passes the
-threshold given by the refund workers and receives at least part of the
-asked daily BTS payout, it is considered active.
+The BitShares Blockchain in its technical implementation only
+knows one type of worker proposal. It contains a name, reward receiving
+account, daily BTS rate and a link to provide insight into
+the purpose of the worker proposal. Anyone can create a worker
+proposal on-chain, and afterwards all BTS token holders can vote
+on it. If it passes the threshold given by the refund workers and
+receives at least part of the asked daily BTS, it is considered
+active.
 
-The BitShares community informally split worker proposal into two types,
-payment and opinion worker proposals. The former is meant to fund any kind
-of activity as defined by the worker proposal, the latter is meant to
-do strategic decisions and to agree on the consensus changing development
-and introducing new features of the BitShares core (BitShares Improvement Proposals).
+The BitShares community informally split worker proposal into two
+types, reward and opinion worker proposals. The former is meant
+to provide BTS for a kind of activity as defined by the worker
+proposal, the latter is meant to make strategic decisions and to
+agree on the consensus changing development and introducing new
+features of the BitShares core (BitShares Improvement Proposals).
 
-The BitShares Blockchain Foundation can operate a opinion and payment worker proposals
-and act as an escrow for the freelancers conducting the worker proposal.
-We see the following value propositions to use us as an escrow (please note that
-the BBF is merely one possible way to facilitate worker proposals and is not
-meant as an exclusive escrow):
+There are facilitating possibilities with an external company to
+provide participants of a Worker Proposal with an Escrow
+service.
 
- - Reduce volatility risk for both parties. The freelancer has the risk of being underpaid if the core
-   token price drops, the blockchain has the risk to overpay the freelancer if the core token price raises.
-   From a business and service provider's perspective both is inacceptible
- - Operating risk for the blockchain. If the freelancer would be paid directly from the chain, he gets paid no matter what (assuming the worker remains active),
-   may not deliver what was promised, only partially or faulty.
-   It also has happened that the freelancer decided to follow a different path with the budget, without the need to get reapproval
-   from core token holders.
- - From a tax perspective, the tokens "appear" out of nowhere in the freelancers account, without
-   an entity in grasp to bill to. Without special considerations this can imply tax liabilities
- - Initial review and iteration on incoming worker proposals, utilizing our knowledge, experience
-   and feel for the need of the BitShares community to produce proposals with increased chances of approval. At the end
-   proposals with clear tasks and value propositions are published.
+In the following section more details are presented into an
+exemplary escrow services. This may not be an exhaustive description,
+yet is an attempt to outline best practices. The BitShares Blockchain Foundation
+itself does not offer escrow services.
 
-Certainly using The BitShares Blockchain Foundation as an escrow introduces additional
-overhead and requires both trust from the BTS token holders and the freelancer.
+# How does an escrow procedure typically work
 
-## The procedure
+For worker proposals, an escrow service offers the following value
+propositions:
 
-The purpose of this service is to provide security and transparency to
-both parties, the BitShares Blockchain Community, as well as the
-freelancer that performs the work in expectation of payment. Setting up a worker proposal
-through the BBF normally sticks to the following flow:
+ - Reduce volatility risk for both parties. The freelancer has
+   the risk of being under-rewarded if the core token price drops,
+   the blockchain has the risk to over-reward the freelancer if the
+   core token price raises. From a business and service
+   provider’s perspective both is unacceptible
+ - Operating risk for the blockchain. If the freelancer would be
+   rewarded directly from the blockchain, he gets rewarded no matter what
+   (assuming the worker remains active), may not deliver what
+   was promised, only partially or faulty. It may also happen
+   that the freelancer decides to follow a different path with
+   the budget, without the need to get re-approval from core
+   token holders
+ - Initial review and iteration on incoming worker proposals,
+   utilizing deep knowledge, experience and feel for the need of
+   the BitShares community to produce proposals with increased
+   chances of approval. At the end proposals with clear tasks
+   and value propositions are published
+
+Certainly using escrow services introduces additional overhead and
+requires both trust from the BTS token holders and the freelancer.
+
+The purpose of such a service is to provide security and
+transparency to both parties, the BitShares DAC, as well as the
+freelancer that performs the work in expectation of receiving BTS.
+Setting up a worker proposal with an Escrow service normally sticks to the following flow:
 
 1. Establishing agreement for Escrow service for a defined task, review and iterate
-2. BBF sets up worker proposal on-chain
-3. BBF obtains BTS from reserves
-4. BBF obtains smartcoins according to agreement (bitCNY, bitUSD, ...)
-5. freelancer proves delivery
-6. BBF reviews delivery and invoice
-7. freelancer receives payment
-8. Escrow service returns excess BTS to reserves
+2. Setting up a worker proposal on-chain
+3. Escrow obtains BTS from reserves as agreed by majority vote
+   in BTS holders
+4. BTS can be exchanged into SmartCoins or other assets according to the agreement
+5. Freelancer proves delivery
+6. Escrow reviews delivery and invoice
+7. Freelancer receives rewards
+8. Escrow service returns excess BTS to Working Budget of the
+   DAC
 
-## Payment worker proposals
+## Reward worker proposals
 
-The BitShares Blockchain Foundation splits the payment workers into two sub-types,
+The BitShares Blockchain Foundation splits the reward workers into two sub-types,
 namely escrow and budget workers. For both workers the
 
 * **escrow workers**: With this, we organize
@@ -96,59 +95,57 @@ namely escrow and budget workers. For both workers the
 * **budget workers**: These workers serve as a budget
   that can be tapped whenever it is needed for purposes defined in the
   individual budget workers. This serves as working budget that is more
-  flexible then static escrow workers in the way that it allows to pay
+  flexible then static escrow workers in the way that it allows to reward
   many different people for their support out of a single purpose-specific
   fund.
 
 *Remark 1*
-A payment worker can only payout funds that have been obtained through
-the corresponding worker being active. The BitShares Blockchain Foundation
-expects that the freelancer monitors the status of the worker and available
-budget.
+A reward on a worker can only send BTS that have been
+obtained through the corresponding worker being active. The
+freelancer himself monitors at all times the status of the worker
+and available budget.
 
 *Remark 2*
-If not otherwise mentioned in the specific worker proposal, a 5% escrow
-fee is applied to all payment workers operated by The BitShares Blockchain Foundation
-(starting 1. March 2019). This fee is applicable for each outgoing
-payment and will be accounted for publicly for each worker.
+If not otherwise agreed and mentioned in the specific
+worker proposal, usually an 5% escrow fee is applied to a reward
+on workers. This fee is applicable for each outgoing amount and
+needs to be accounted for publicly for each worker.
 
 *Remark 3*
-If not otherwise mentioned in the specific worker proposal, invoices must be posted to the 
-BBF (either via email to invoice@bitshares.foundation or uploaded to the accounting website)
-within two months of the handover of the delivery (e.g. when a sprint or milestone has been completed).
-After this timeframe has passed, the delivery will be considered a volunteer contribution. 
+An Escrow service is always separately agreed with
+either a legal entity or an individual that has been identified
+with their real-world identity. Usually there is a two months
+deadline after the handover of the delivery (e.g. when a sprint or
+milestone has been completed). After this timeframe has passed,
+deliveries will be considered most welcome volunteer contribution
+to the open source repository of the decentralized Bitshares Blockchain
 
 ### Escrow Worker Model
 
-The purpose of escrow workers is to ensure proper payment for the work
-provided over a period of time and absorb volatility of the BTS token
-during that time. The freelancer has a reduced currency-risk during
-while the BitShares DAC does not overpay for the provided work,
-especially for long-term agreements.
+The purpose of escrow workers is to ensure proper rewarding for
+the work provided over a period of time and absorb volatility of
+the BTS token during that time. Both the freelancer and the BitShares DAC
+may experience a reduced risk during an escrowed worker proposal,
+especially in longer agreements.
 
-Given that a worker on the blockchain may be voted in for quite some
-time, The BitShares Blockchain Foundation would like to exercise the new
-model of running an escrow worker to reduce risks and costs for the BTS
-token holders:
-
-* The BitShares Blockchain Foundation has an account (`workers.bitshares.foundation`) that is co-owned by `committee-account` and escrow partners.
-* The worker will redeem it's funds on a regular basis and buy up smartcoins from the market (with reasonable premiums).
-* For this reason and due to volatility of BTS, the actual pay of the worker is higher than the USD value.
-* The worker will only pay the agreed amount of money and pay only in smartcoins to the `bitshares.foundation` account.
-* Every BTS that is not paid according to the terms of the worker proposal **will be returned** to the BTS token holders through the reserve fund.
-* The amounts available for individual budgets can be obtained through [transparent account](/accounting)
+* An Escrow company will usually have an account on the BitShares Blockchain Foundation.
+* The worker proposal will automatically redeem it’s funds on a regular basis and the escrow party will exchange these for smartcoins from the market (with reasonable premiums).
+* For this reason and due to volatility of BTS, the actual reward of the worker is higher than the USD value.
+* The worker proposal that is voted in, will only reward the agreed amount of rewards and will reward in one of the agreed upon assets to the escrow account.
+* Every BTS that is not rewarded according to the terms of the worker proposal should be returned to the BitShares DAC's Working Budget
+* The amounts available for individual budgets should be presented publicly.
 
 ### Budget Worker Model
 
-Budget workers serve as workers that provide capital for specific
-purposes where escrow workers do not fit, such as translation work,
-bug fixing or bounties. The rules are as follows:
+Budget workers serve as workers that might provide a solution for
+specific purposes where escrow workers do not fit, such as
+translation work, bug fixing or bounties. The rules could be as
+follows:
 
-* The BitShares Blockchain Foundation has an account (`workers.bitshares.foundation`) that is co-owned by `committee-account` and escrow partners.
-* The BBF will redeem these funds on a regular basis and buy up smartcoins from the market (with reasonable premiums).
-* For this reason and due to volatility of BTS, the available budget in USD terms might vary over time.
-* The budget is controlled by `bitshares.foundation` who serves as an independent entity to supervise payouts.
-* The amounts available for individual budgets can be obtained through [transparent account](/accounting)
+* An Escrow company will usually have an account on the BitShares Blockchain Foundation.
+* The worker proposal will automatically obtain its funds from the BitShares DAC's Working Budget and the escrow party will exchange these for the agreed assets from the market (with reasonable premiums)
+* For this reason and due to volatility of BTS, the available budget might vary over time.
+* The amounts available for individual budgets should be obtained publicly.
 
 ## Opinion worker proposals
 
@@ -160,32 +157,16 @@ change to the behavior of the BitShares Blockchain requires approval by
 BTS holders by means of approval voting. This is implemented by means of
 a BSIP worker.
 
-# Beneficiaries and Invoices
+## Transparency
 
-Beneficiaries of either of these models need to authenticate themselves
-against The BitShares Blockchain Foundation with their real-world identity.
-Invoices need to be sent that are published in this site.
+Escrow arrangements should be open and transparent on-line where
+it concerns dealings with BTS and the BitShares DAC.
+All its accounting should be visible for all anonymous parties to see on-line.
 
-**Payments will be made only after receiving and approving individual invoices!**
+# Beneficiaries and Reports
 
-Invoices are to be adressed to
-
-    The BitShares Blockchain Foundation
-
-Indication of the name is sufficient on the invoice. It is the desire of the Foundation to 
-fullfill the terms set forth in
-the worker proposal. However, the BitShares Blockchain Foundation
-expects freelancers to understand that no legal agreements is being
-formed between the Foundation and the freelancer. The Foundation merely
-acts as an escrow partner for funds offered by the BitShares community.
-
-# Legal Setup
-
-Workers listed on this site will be owned by the BitShares Blockchain
-Foundation, who will also act as the freelancer's partner and point of
-contact for the worker proposal, supervise the entire progress,
-handle technical details and support quality assurance procedures. Any of those 
-tasks may be outsourced to trusted contractors.
-
-___
-_Page updated on 29.01.2019. Applicable to all subsequently posted workers (on-chain creation date). See the GitHub history of this site for versions applicable to older worker proposal._
+Escrow organisations need to be compliant. Beneficiaries of any of
+these models will be asked to authenticate themselves with their
+real-world identity. Due to the nature of being a public
+decentralized blockchain, all reports for reward request must be published
+on line. An approval procedure needs to be in place.
